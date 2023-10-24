@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-mergeDebugResources-30:\\layout\\tile_phone.xml",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\tile_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-mergeDebugResources-30:\\layout\\toolbar.xml",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "br.edu.scl.ifsp.sdm.lifecycle.app-mergeDebugResources-30:/layout/activity_another.xml",
+        "source": "br.edu.scl.ifsp.sdm.lifecycle.app-main-33:/layout/activity_another.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-mergeDebugResources-30:\\layout\\activity_another.xml",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\activity_another.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_phone">Add phone</string>
+    <string name="another">Another</string>
+    <string name="app_name">Lifecycle</string>
+    <string name="filled_chars">Filled chars:</string>
+    <string name="main">Main</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="phone_number">Phone number</string>
+    <style name="Base.Theme.Lifecycle" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lifecycle" parent="Base.Theme.Lifecycle"/>
+</resources>

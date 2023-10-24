@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_add_phone
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_next
+drawable rounded_image_button_background
+id addPhoneBt
+id filledCharsTv
+id nameEt
+id openAnotherActivityBt
+id phone
+id phonesLl
+id toolbar
+id toolbarIn
+layout activity_another
+layout activity_main
+layout tile_phone
+layout toolbar
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_phone
+string another
+string app_name
+string filled_chars
+string main
+string name
+string next
+string phone_number
+style Base.Theme.Lifecycle
+style Theme.Lifecycle
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-anydpi_ic_add_phone.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-anydpi\\ic_add_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\layout_activity_another.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\activity_another.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable_rounded_image_button_background.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable\\rounded_image_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-anydpi_ic_next.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-anydpi\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\layout_tile_phone.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\layout\\tile_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-mdpi_ic_add_phone.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-mdpi\\ic_add_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-xxhdpi_ic_add_phone.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-xxhdpi\\ic_add_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-hdpi_ic_add_phone.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-hdpi\\ic_add_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:\\drawable-xhdpi_ic_add_phone.png.flat",
+        "source": "C:\\Users\\williamanselmo\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.lifecycle.app-main-33:\\drawable-xhdpi\\ic_add_phone.png"
+    },
+    {
+        "merged": "br.edu.scl.ifsp.sdm.lifecycle.app-merged_res-31:/layout_activity_another.xml.flat",
+        "source": "br.edu.scl.ifsp.sdm.lifecycle.app-main-33:/layout/activity_another.xml"
+    }
+]
